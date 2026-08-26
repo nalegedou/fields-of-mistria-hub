@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nalegedou.github.io/fields-of-mistria-hub/sitemap.xml
